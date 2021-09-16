@@ -1,0 +1,251 @@
+.navbar
+{
+    margin: 0;
+    
+}
+
+.container-fluid
+{
+    background-color: rgba(87, 114, 47, 0.918);
+}
+.nav-link
+{
+    color: honeydew !important;
+}
+.btn
+{
+    color: honeydew !important;
+    background-color: rgb(6, 155, 110) !important;
+  
+}
+.dropdown-menu {
+    width: 700px !important;
+    height: 300px !important;
+    background-color: rgba(3, 160, 108, 0.781) !important;
+    
+}
+.nav-link:hover
+{
+    color: indigo !important;
+    background-color: lightblue;
+}
+.dropdown-menu a
+{
+    color: maroon;
+}
+.dropdown-menu a:hover
+{
+    color: rgb(223, 204, 204);
+}
+.head
+{
+    margin: 0;
+    padding: 16rem 0 6rem;
+    background-image: url(img2/bg.jpg);
+    background-size: cover;
+    text-align: center;
+   
+}
+.head h1
+{
+    font-weight: bolder;
+    text-decoration: underline black solid;
+    font-size: 500%;
+    color: rgb(155, 114, 53);
+    padding-bottom: 5rem;
+    display: inline;
+    background-color: rgba(169, 169, 169, 0.863);
+    text-align: center;
+
+    
+}
+.head p{
+    color: rgba(122, 103, 18, 0.808);
+    text-align: center;
+}
+.content
+{
+margin: 5%;
+padding: 5rem 0 3rem;
+background-color: darkkhaki;
+}
+.content h2
+{
+    font-weight: bold;
+   text-align: center;
+    display: inline;
+    color: teal;
+    
+}
+.about h1
+{
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline black solid;
+}
+.about p
+{
+    color: rgb(3, 148, 148);
+    font-size:120%;
+    text-align: center;
+    font-style: italic;
+    padding: 2rem;
+    
+}
+.about img
+{
+    border-radius: 4px;
+}
+.feature h1
+{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline black solid;
+    padding: 3rem;
+}
+.feature p
+{
+    text-align: center;
+    font-style: italic;
+    color: cornflowerblue;
+}
+.feature
+{
+    padding: 5rem 0 3rem;
+    background-color: lightgray;
+    margin-top: 10%;
+}
+.feature img
+{
+    border-radius: 5px;
+}
+.d-flex
+{
+    padding: 1rem;
+}
+
+.product h1
+{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline black solid;
+    padding: 3rem;
+}
+.prime
+{
+    background-color: rgba(226, 240, 226, 0.76);
+}
+
+.prime
+{
+    padding: 2rem;
+    margin-left: 7%;
+   
+}
+
+
+.testimonial-section{
+    background-color: rgba(185, 123, 6, 0.87);
+   
+  }
+  .testimonial-section .carousel-item{
+    margin-top:3rem;
+    padding:10rem 3.125rem;
+    background-color:rgb(146, 3, 3);
+    border-radius: 0.9375rem;
+    text-align: center;
+  } 
+  .testimonial-section .carousel-caption img{
+    max-width:5rem;
+    border-radius: 50%;
+    padding:0.3125rem;
+  }
+  
+  .testimonial-section .carousel-item .carousel-caption p{
+    font-size: 1.3125rem;
+    line-height: 2.0625rem;
+    padding:0 11% 0.625rem;
+  }
+  .testimonial-section .carousel-indicators{
+    bottom:-2.8125rem;
+  }
+  .testimonial-section .carousel-indicators button{
+    width:15px;
+    height:15px;
+    outline:none;
+    border-radius: 50%;
+    border:none;
+    margin-right:1rem;
+    opacity:0.2;
+  }
+  .testimonial-section .carousel-indicators button.active{
+    opacity:1;
+  }
+  .wrapper {
+    padding-top: 7.25rem;
+    padding-bottom: 7.25rem;
+  }
+ .questions
+ {
+     text-align: center;
+     padding: 4rem 0 2rem;
+     background-color: rgba(219, 205, 219, 0.849);
+     margin-top: 6%;
+ }
+ .fas
+ {
+     margin-right: 2%;
+     margin-top: 2%;
+ }
+ .questions h2
+ {
+     padding: 2rem;
+     font-weight: bold;
+ }
+ .questions h4
+ {
+     color: rgba(71, 67, 67, 0.897);
+     
+ }
+ .fa-whatsapp:hover
+ {
+     color: green;
+ }
+ .fa-phone-alt:hover
+ {
+     color: blue;
+ }
+ .fa-envelope:hover
+ {
+     color: rgb(255, 136, 0);
+ }
+ .fas:hover
+ {
+     cursor: pointer;
+ }
+ .fab:hover
+ {
+     cursor: pointer;
+ }
+ .footer
+ {
+     padding: 3rem 0 3rem ;
+     background-color: rgba(179, 206, 206, 0.774);
+     margin-top: 7%;
+ }
+ 
+ .sub2 
+ {
+    margin-left: 46%;
+    margin-top: 2%;
+ }
+ h5{
+     text-align: center;
+     margin-top: 2%;
+ }
+ .sub3
+ {
+     margin-left: 45%;
+     margin-top: 2%;
+     margin-bottom: 3%;
+ }
